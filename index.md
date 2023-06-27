@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Tableau 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mexico's Remittance](/sample_page)
+<img src="images/Remesas comparativo.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Remesas comparativo.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Remesas comparativo.png?raw=true"/>
 
 ---
 
