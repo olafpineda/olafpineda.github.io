@@ -1,13 +1,13 @@
 title: Olaf Pineda # your name (or website title) here
 logo: "/images/olaflogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am an economist with more than eight years of experience as a researcher in the public sector,
-  and four years of experience in university teaching.
+  Economist with 8+ years of experience as a macroeconomic data analyst in the public sector,
+  and 4 years of experience in university teaching.
   I am passionate about macroeconomics and data analysis. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/olafpineda/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/olafpineda/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
