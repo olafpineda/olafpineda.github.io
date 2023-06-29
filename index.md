@@ -4,7 +4,7 @@
 
 ### Tableau 
 
-[Mexico's Remittance](/sample_page)
+[Mexico's Exports/Imports by Sectors, Countries and Years](/sample_page)
 <img src="images/MexicosExportsYeasSectors.png"/>
 
 ---
