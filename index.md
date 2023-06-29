@@ -5,15 +5,15 @@
 ### Tableau 
 
 [Mexico's Remittance](/sample_page)
-<img src="images/Remesas comparativo.png?raw=true"/>
+<img src="images/MexicosExportsYeasSectors.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/Remesas comparativo.png?raw=true"/>
+<img src=""/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/Remesas comparativo.png?raw=true"/>
+<img src=" "/>
 
 ---
 
